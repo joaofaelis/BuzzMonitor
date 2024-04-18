@@ -1,0 +1,19 @@
+                 ~~~  ÓTIMO DIA :D  ~~~~
+
+Bem vindos ao Manual de como utilizar o executável de tratamentos de dados da gloriosa BUZZMONITOR!
+
+1 - Como primeiro passo, pegue a planilha (.xlsx) da BuzzMonitor e coloque ela (ou uma cópia dela) na pasta "database_original".
+
+2- Com a base original no diretório correto, execute o programa BUZZMONITOR_TREATMENT.
+ Irá aparecer uma tela preta, espere ela sumir. Quando ela sumir normalmente é porque deu certo! :)
+
+    ( LEMBRANDO: Só pode haver UMA base original no diretório, lembre-se sempre de verificar para evitar erros. )
+
+3 - A execução é BEM rápida, após ela a base tratada estará na pasta "treated_database". A base provávelmente estará com o nome "Base_tratada.xlsx" mas ai é possível renomear.
+
+4 - Para a execução novamente do programa, lembresse de excluir a Base_tratada.xlsx da pasta, ou então move-la para outro diretorio em seu computador. Caso a Planilha esteja aberta com o nome "Base_tratada.xlsx" e você tente executar, irá dar erro de permissão pois a planilha tem que estar fechada para execução.
+
+Bom... qualquer dúvida ou problema, favor chamar o desenvolvedor kkkk. 
+
+Beijos.
+
